@@ -1,0 +1,21 @@
+{
+  "name": "langchain-broken-type-inference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "dependencies": {
+    "@langchain/core": "^0.3.75",
+    "@langchain/openai": "^0.6.11",
+    "@types/node": "^24.3.1",
+    "langchain": "^0.3.33",
+    "typescript": "^5.9.2",
+    "zod": "^3.25.76"
+  }
+}
